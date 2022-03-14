@@ -1,0 +1,17 @@
+body {
+  background: black;
+}
+.outer {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  background: black;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+}
